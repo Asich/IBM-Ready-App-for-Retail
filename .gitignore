@@ -2,3 +2,4 @@ build/
 iOS/ReadyAppRetail/ReadyAppRetail.xcodeproj/project.xcworkspace/xcuserdata/
 iOS/ReadyAppRetail/ReadyAppRetail.xcodeproj/xcuserdata/
 bin/
+.DS_Store
