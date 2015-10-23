@@ -1,14 +1,22 @@
+![](README_assets/banner.png)
 # IBM-Ready-App-for-Retail
 
-## Overview
+### Overview
+IBM Ready App for Retail is the second of the IBM ReadyApp Series. This app
+* reshapes the specialty retail shopping experience
+* personalizes this experience through direct communication
+* understands consumer behavior in the context of the customer's journey
+* focuses on real time personalization and engagement
 
-IBM Ready App for Retail is the second of the IBM ReadyApp series. It seeks to reshape the specialty retail store shopping experience by opening up a direct line of communication with shoppers to personalize their experience. IBM Ready App for Retail utilizes the MobileFirst Platform Foundation, Cloudant, Xtify, and Estimote Beacon technology.
 
-The credentials to login into IBM Ready App for Retail are:
+IBM Ready App for Retail utilizes the MobileFirst Platform Foundation, Cloudant, Xtify, and Estimote Beacon technology.
 
-| Username | Password |
-|---------|----------|
-| user1   | password1 |
+### Getting Started
+Please visit the [Getting Started page](http://lexdcy040194.ecloud.edst.ibm.com/summit_1_1_0/getting_started) to set up the project. 
 
-##Documentation
-For access to the full documentation please visit http://lexdcy040194.ecloud.edst.ibm.com/summit_1_1_0/home
+### Documentation
+Please visit [this page](http://lexdcy040194.ecloud.edst.ibm.com/summit_1_1_0/home) for access to the full documentation.
+
+### License
+IBM Ready App for Retail is available under the IBM Ready Apps License Agreement. See the [License file](https://github.com/IBM-MIL/IBM-Ready-App-for-Retail/blob/master/License.txt) for more details.
+
